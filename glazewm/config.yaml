@@ -317,7 +317,7 @@ keybindings:
   # Custom
   - commands:
       [
-        "shell-exec conhost.exe --headless powershell.exe & 'C:\\Users\\vojtech.kylar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'",
+        "shell-exec conhost.exe --headless powershell.exe & 'C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'",
       ]
     bindings: ["alt+c"]
   - commands: ["shell-exec conhost.exe --headless powershell.exe chatgpt"]
