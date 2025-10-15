@@ -1,0 +1,42 @@
+[2m2025-10-15T06:57:39.549487Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'pw'.
+
+Error: Uživatel operaci zrušil. (0x800704C7)
+[2m2025-10-15T06:58:15.511389Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'pw'.
+
+Error: Uživatel operaci zrušil. (0x800704C7)
+[2m2025-10-15T06:59:45.505420Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 125 column 5, while scanning a simple key at line 124 column 5
+[2m2025-10-15T07:00:03.697943Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 125 column 5, while scanning a simple key at line 124 column 5
+[2m2025-10-15T07:01:58.418928Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m workspaces[0].bind_to_monitor: invalid type: string "O", expected u32 at line 124 column 22
+[2m2025-10-15T07:03:18.517551Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '6' doesn't exist or is already active.
+[2m2025-10-15T07:03:52.837876Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '8' doesn't exist or is already active.
+[2m2025-10-15T07:04:31.620840Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '7' doesn't exist or is already active.
+[2m2025-10-15T08:21:12.590524Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-10-15T11:15:05.249371Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[47].commands: unrecognized subcommand
+ at line 325 column 15
+[2m2025-10-15T11:18:06.715767Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m found unknown escape character at line 325 column 98, while parsing a quoted scalar at line 325 column 16
+[2m2025-10-15T11:19:26.342754Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[47].commands: unrecognized subcommand
+ at line 325 column 15
+[2m2025-10-15T11:21:00.517169Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\\Users\\vojtech.kylar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"'.
+[2m2025-10-15T11:21:07.077512Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\\Users\\vojtech.kylar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"'.
+[2m2025-10-15T11:21:44.822075Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"code"'.
+[2m2025-10-15T11:23:37.320891Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"code"'.
+[2m2025-10-15T11:24:11.033340Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"code C:\\Projects\\FleetCtrl"'.
+[2m2025-10-15T11:32:39.634124Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe"'.
+[2m2025-10-15T11:32:48.465845Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"& C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe"'.
+[2m2025-10-15T11:33:06.982305Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute '& "C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe"'.
+
+Error: Uživatel operaci zrušil. (0x800704C7)
+[2m2025-10-15T11:33:13.185656Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe"'.
+[2m2025-10-15T11:33:31.824961Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\\Users\\vojtech.kylar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"'.
+[2m2025-10-15T11:33:50.832874Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"code"'.
+[2m2025-10-15T11:34:28.470255Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute ''code''.
+
+Error: Uživatel operaci zrušil. (0x800704C7)
+[2m2025-10-15T11:35:00.928100Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command ''C:\Users\vojtech.kylar\AppData\Local rograms\Microsoft VS Code\Code.exe''.
+[2m2025-10-15T11:35:24.431729Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command ''C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe''.
+[2m2025-10-15T11:35:34.528331Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command ''C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe''.
+[2m2025-10-15T11:35:58.335710Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command ''C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe''.
+[2m2025-10-15T11:36:48.767261Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command ''C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe''.
+[2m2025-10-15T11:36:58.734555Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute '& 'C:\Users\vojtech.kylar\AppData\Local\Programs\Microsoft VS Code\Code.exe''.
+
+Error: Uživatel operaci zrušil. (0x800704C7)
