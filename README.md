@@ -1,1 +1,1 @@
-C:\Users\<username>\.glzr
+C:\Users\<username>\\.glzr
